@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PeyaTurnos</string>
+
+    <string name="accessibility_description">Detecta texto de turnos disponibles en la pantalla de PeYa Rider y genera una alerta.</string>
+
+</resources>
